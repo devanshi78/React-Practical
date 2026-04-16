@@ -20,6 +20,15 @@ A simple and efficient **Hotel Management System** built using **React (Vite)** 
 
 ---
 
+## 🔑 Demo Login Credentials
+
+Use the following credentials to log in:
+
+- **Email:** admin@gmail.com  
+- **Password:** 1234  
+
+---
+
 ## 📁 Project Structure
 
 ```
